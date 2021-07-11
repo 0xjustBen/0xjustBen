@@ -39,7 +39,7 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
  - :collision: I did Rastalabs on HTB
  - :space_invader: I'm an Elite hacker on HTB 
  
- ![justBen](https://www.hackthebox.eu/badge/image/124038)](https://www.hackthebox.eu/home/users/profile/124038)
+ [![justBen](https://www.hackthebox.eu/badge/image/124038)](https://www.hackthebox.eu/home/users/profile/124038)
 
 
 ## Contact me:
