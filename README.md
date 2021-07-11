@@ -39,6 +39,8 @@ I just finished my studies, so if you have a job to offer me why not. Contact me
  - :collision: I did Rastalabs on HTB
  - :space_invader: I'm Elite hacker on HTB 
 
+## Contact me:
+If you want to collaborate with me on some projects/opportunies, feel free to add me on discord: ** justBen#0001 **
 
 <!---
 0xjustBen/0xjustBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
