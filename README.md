@@ -27,7 +27,7 @@ I just finished my studies, so if you have a job to offer me why not. Contact me
 	- [ ] CRTO
 ## Previous Goal: 
 
-- :alien: I have the OSCP exam. 
+- :alien: I'm certified OSCP. 
 	 - [X] OSCP
 - :trophy: Become first on a CTF.
 	 - [X] DGHack (french CTF)
