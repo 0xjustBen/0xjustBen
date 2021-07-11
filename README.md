@@ -37,7 +37,7 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
  - :video_game: I'm really bad at video games, but I try harder..
  - :crossed_flags: I'm practicing a lot on CTF and on HTB
  - :collision: I did Rastalabs on HTB
- - :space_invader: I'm Elite hacker on HTB 
+ - :space_invader: I'm an Elite hacker on HTB 
 
 ## Contact me:
 If you want to collaborate with me on some projects/opportunies, feel free to add me on discord: **justBen#0001**
