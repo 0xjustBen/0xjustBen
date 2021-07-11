@@ -13,7 +13,7 @@ Let s be honest, configuring firewalls is boring, so I decided to do something I
 
 The world of offensive security is exciting and I love learning a little more every day.
  
-I currently work in consulting at Deloitte where I do a lot of RedTeam and internal penetration tests.
+I currently work in cyber consulting at Deloitte where I do a lot of RedTeam and internal penetration tests.
 
 I just finished my studies, so if you have a job to offer me why not. Contact me and we'll see together! 
 ```
