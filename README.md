@@ -31,15 +31,13 @@ I just finished my studies, so if you have a job to offer me why not. Contact me
 	 - [X] OSCP
 - :trophy: Become first on a CTF.
 	 - [X] DGHack (french CTF)
-	
-![Cybersécurité : Résultats du challenge DG&#39;hAck](https://www.defense.gouv.fr/var/dicod/storage/images/base-de-medias/images/dga/cyber/resultats-dg-hack/10122677-1-fre-FR/resultats-dg-hack.jpg)
 
 ## About me:
- - :rocket: In my free time I do kendo and archery
+ - :tokyo_tower: In my free time I do kendo and archery
  - :video_game: I'm really bad at video games, but I try harder..
- - I'm practicing a lot on CTF and on HTB
+ - :crossed_flags: I'm practicing a lot on CTF and on HTB
  - :collision: I did Rastalabs on HTB
- - I'm Elite hacker on HTB 
+ - :space_invader: I'm Elite hacker on HTB 
 
 
 <!---
