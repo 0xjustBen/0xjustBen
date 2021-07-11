@@ -1,6 +1,46 @@
-- 👋 Hi, I’m justBen but people call me Ben
-- 👀 I’m interested in pentesting and developing offensive tools
-- 📫 Feel free to add my discord justBen#0001 if you want to collaborate with me :) 
+# **Hello everyone, I'm Ben but you can find me as justBen**
+
+<p align="center">
+  <img src="https://i.imgur.com/vRU0Fum.gif?noredirect" alt="animated" />
+</p>
+
+```bash
+┌──(justben㉿pwn)-[~]
+└─$ whoami
+After my initial studies in electronics, I decided to go into networking.
+The network is an exciting world but you learn very quickly and the limits are reached very quickly. I was a network architect as a hobby, then I configured firewalls for companies.
+Let s be honest, configuring firewalls is boring, so I decided to do something I really liked, which was to become a pentester.
+
+The world of offensive security is exciting and I love learning a little more every day.
+ 
+I currently work in consulting at Deloitte where I do a lot of RedTeam and internal penetration tests.
+
+I just finished my studies, so if you have a job to offer me why not. Contact me and we'll see together! 
+```
+## Goal to complete on 2021:
+
+ - :no_bell: I'm working on OSCE3 exam:
+	 - [ ] OSEP
+	 - [ ] OSED
+	 - [ ] AWE
+- :mouse: I'm a fan of RastaMouse content, I'll soon attempt the CRTO.
+	- [ ] CRTO
+## Previous Goal: 
+
+- :alien: I have the OSCP exam. 
+	 - [X] OSCP
+- :trophy: Become first on a CTF.
+	 - [X] DGHack (french CTF)
+	
+![Cybersécurité : Résultats du challenge DG&#39;hAck](https://www.defense.gouv.fr/var/dicod/storage/images/base-de-medias/images/dga/cyber/resultats-dg-hack/10122677-1-fre-FR/resultats-dg-hack.jpg)
+
+## About me:
+ - :rocket: In my free time I do kendo and archery
+ - :video_game: I'm really bad at video games, but I try harder..
+ - I'm practicing a lot on CTF and on HTB
+ - :collision: I did Rastalabs on HTB
+ - I'm Elite hacker on HTB 
+
 
 <!---
 0xjustBen/0xjustBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
