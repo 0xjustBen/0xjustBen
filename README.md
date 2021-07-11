@@ -15,7 +15,7 @@ The world of offensive security is exciting and I love learning a little more ev
  
 I currently work in cyber consulting at Deloitte where I do a lot of RedTeam and internal penetration tests.
 
-I just finished my studies, so if you have a job to offer me why not. Contact me and we'll see together! 
+I just finished my studies, I have an engineering degree (MsC) in network and security, so if you have a job to offer me why not. Contact me and we'll see together! 
 ```
 ## Goal to complete on 2021:
 
