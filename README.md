@@ -1,4 +1,4 @@
-# **Hello everyone, I'm Ben but you can find me as justBen**
+# **Hello everyone, I'm Ben you can also find me as justBen**
 
 <p align="center">
   <img src="https://i.imgur.com/vRU0Fum.gif?noredirect" alt="animated" />
