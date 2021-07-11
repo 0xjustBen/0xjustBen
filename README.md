@@ -1,4 +1,4 @@
-- 👋 Hi, I’m justBen but people call Ben
+- 👋 Hi, I’m justBen but people call me Ben
 - 👀 I’m interested in pentesting and developing offensive tools
 - 📫 Feel free to add my discord justBen#0001 if you want to collaborate with me :) 
 
