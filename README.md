@@ -9,7 +9,7 @@
 └─$ whoami
 After my initial studies in electronics, I decided to go into networking.
 The network is an exciting world but you learn very quickly and the limits are reached very quickly. I was a network architect as a hobby, then I configured firewalls for companies.
-Let s be honest, configuring firewalls is boring, so I decided to do something I really liked, which was to become a pentester.
+Lets be honest, configuring firewalls is boring, so I decided to do something I really liked, which was to become a pentester.
 
 The world of offensive security is exciting and I love learning a little more every day.
  
