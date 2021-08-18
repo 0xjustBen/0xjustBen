@@ -74,7 +74,7 @@ If you want to collaborate with me on some projects/opportunies, feel free to ad
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&logo=appveyor&page_id=j=0xjustBen.visitor-badge)
 
-##Scores:
+## Scores:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=0xjustBen)
 
