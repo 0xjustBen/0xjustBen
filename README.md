@@ -19,7 +19,7 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
 ```
 
 ## Things I use:
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 
 
