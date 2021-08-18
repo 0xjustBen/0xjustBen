@@ -17,6 +17,12 @@ I currently work in cyber consulting at Deloitte where I do a lot of RedTeam and
 
 I just finished my studies, I have an engineering degree (MsC) in network and security, so if you have a job to offer me why not. Contact me and we'll see together! 
 ```
+
+## Things I use:
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+
+
+
 ## Goal to complete on 2021:
 
  - :no_bell: I'm working on OSCE3 exam:
