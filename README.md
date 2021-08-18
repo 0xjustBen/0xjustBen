@@ -72,12 +72,14 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
 
 ## Contact me:
 If you want to collaborate with me on some projects/opportunies, feel free to add me on discord: **justBen#0001**
-
+<p align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&logo=appveyor&page_id=j=0xjustBen.visitor-badge)
+</p>
 
 ## Scores:
-
+<p align="center">
 ![stats](https://github-readme-stats.vercel.app/api?username=0xjustBen)
+</p>
 
 <!---
 0xjustBen/0xjustBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
