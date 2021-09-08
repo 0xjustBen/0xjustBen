@@ -77,6 +77,8 @@ If you want to collaborate with me on some projects/opportunies, feel free to ad
 ## Scores:
 ![stats](https://github-readme-stats.vercel.app/api?username=0xjustBen)
 
+## Joke of the day:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
 0xjustBen/0xjustBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
