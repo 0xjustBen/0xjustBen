@@ -46,7 +46,7 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
 
 
 
-## Goal to complete on 2021:
+## Goal to complete on 2022:
  - :no_bell: I'm working on OSCE3 exam:
 	 - [ ] OSEP
 	 - [ ] OSED
@@ -59,6 +59,12 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
 	 - [X] OSCP
 - :trophy: Become first on a CTF.
 	 - [X] DGHack (french CTF)
+- :collision: Finished all the RedTeam Prolabs from HackTheBox:
+	 - [X] RastaLabs
+	 - [X] Cybernetics
+	 - [X] APTProlabs
+	
+
 
 ## About me:
  - :tokyo_tower: In my free time I do kendo and archery
