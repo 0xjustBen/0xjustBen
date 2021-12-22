@@ -70,7 +70,6 @@ I just finished my studies, I have an engineering degree (MsC) in network and se
  - :tokyo_tower: In my free time I do kendo and archery
  - :video_game: I'm really bad at video games, but I try harder..
  - :crossed_flags: I'm practicing a lot on CTF and on HTB
- - :collision: I did Rastalabs on HTB
  - :space_invader: I'm an Elite hacker on HTB 
  
  [![justBen](https://www.hackthebox.eu/badge/image/124038)](https://www.hackthebox.eu/home/users/profile/124038)
