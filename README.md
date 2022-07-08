@@ -8,14 +8,14 @@
 ┌──(justben㉿pwn)-[~]
 └─$ whoami
 After my initial studies in electronics, I decided to go into networking.
-The network is an exciting world but you learn very quickly and the limits are reached very quickly. I was a network architect as a hobby, then I configured firewalls for companies.
+The networking topoc is an exciting world but you learn very quickly and the limits are reached very quickly. I was a network architect as a hobby, then I configured firewalls for companies.
 Lets be honest, configuring firewalls is boring, so I decided to do something I really liked, which was to become a pentester.
 
 The world of offensive security is exciting and I love learning a little more every day.
  
-I currently work in cyber consulting at Deloitte where I do a lot of RedTeam and internal penetration tests.
+I currently work in cyber consulting at Deloitte where I do a lot of RedTeam and network penetration testing.
 
-I just finished my studies, I have an engineering degree (MsC) in network and security, so if you have a job to offer me why not. Contact me and we'll see together! 
+I just finished my studies, I have an engineering degree (MsC) in network and security, so if you have a job to offer me contact me and we'll see together! 
 ```
 
 ## Things I use:
