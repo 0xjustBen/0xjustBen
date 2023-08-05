@@ -4,20 +4,6 @@
   <img src="https://i.imgur.com/vRU0Fum.gif?noredirect" alt="animated" />
 </p>
 
-```bash
-┌──(justben㉿pwn)-[~]
-└─$ whoami
-After my initial studies in electronics, I decided to go into networking.
-The networking topoc is an exciting world but you learn very quickly and the limits are reached very quickly. I was a network architect as a hobby, then I configured firewalls for companies.
-Lets be honest, configuring firewalls is boring, so I decided to do something I really liked, which was to become a pentester.
-
-The world of offensive security is exciting and I love learning a little more every day.
- 
-I currently work in cyber consulting at Deloitte where I do a lot of RedTeaming and network penetration testing.
-
-I just finished my studies, I have an engineering degree (MsC) in network and security, so if you have a job to offer me contact me and we'll see together! 
-```
-
 ## Things I use:
 ![disscord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
